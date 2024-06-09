@@ -241,6 +241,11 @@ hash = "b9e82527f9d5d2152c4e095c00a3d0a30a29825479fd73e7e24a2634bde112be"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "2fb61574c93469ae799bcfb2806bf7a43309e3a36e562145f9dfeb208ec5b499"
+metafile = true
+
+[[files]]
 file = "mods/jumpy-boats.pw.toml"
 hash = "29725b9b5379532112f94a3007b2c18ad1cd62be650de78e7574a73eabc98afb"
 metafile = true
@@ -393,9 +398,4 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "d7c59d391361b917e0ba2f0a59a641591686c6995b4b9e6f5ac0fc7e6b95e4f4"
 metafile = true
