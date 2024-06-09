@@ -176,6 +176,11 @@ hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "7de0f48f0ab30917c637c1a8a4853802578942a051f5616a6848b5045960c57f"
+metafile = true
+
+[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "b129e4f5f5e4f3d58b05a8021d5af50b2ebf31174b14ecc5d05f9bcbb781538f"
 metafile = true
@@ -188,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "e932f7abbc799791d19e9bb6dba0dacf5ed75ef165911bf375cf584141c657d8"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
@@ -233,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "ad39b6fb2bc55933c421297e8ecf931d82dcb056a5513ba3f3b407fdeaef7b02"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "2998c6878a1ab6ef9ddec4597f6a42bffe05f18d3942346f16795a445c00addc"
 metafile = true
 
 [[files]]
@@ -306,6 +321,11 @@ hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c835e3734d6bd1156827fb51f539bf8871d1d87a237561ed38f59d3deb0c8d54"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "5dc114b3492f8d1cea406ca1fe3139efca509b4572d96422210180b587b42b41"
 metafile = true
@@ -363,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "b92705dd6c13490d14e7c96e01fd1f2fd726f7974da13311ae98c79b0a6c6137"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "7d4c7c47b57e2bb89953b397ff09dc40a94d334f440a3bc480806d07a0b046ff"
 metafile = true
 
 [[files]]
