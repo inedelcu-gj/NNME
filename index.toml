@@ -46,6 +46,11 @@ hash = "0b30fe9bdec7e569401744085e56e20103048cb54efd08f2b245653c3335e371"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "c8505accda3492f1cca18690bd883c61bef0de7824fa67901de4ae78985ee183"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7326f4a85591cb390d744ffc76f8daa1bb056aa0e0dcc9d27b6c661d10c441de"
 metafile = true
@@ -186,6 +191,11 @@ hash = "e932f7abbc799791d19e9bb6dba0dacf5ed75ef165911bf375cf584141c657d8"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "ec1e75e28d448fba354039b37470565e9c2aefc63fde1852904c38af0b4b2136"
 metafile = true
@@ -198,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "237cb304225faf4c0ea3011fae80a9f438d2d002f0de5007c00f020613b3ff9b"
+metafile = true
+
+[[files]]
+file = "mods/gigeresque.pw.toml"
+hash = "91a1f82e1ded0bfd88e01b0c3f0064bc1a5d282f03451769f46a37125fea12fd"
 metafile = true
 
 [[files]]
@@ -366,8 +381,18 @@ hash = "2ebc9366a396634d88e2ca05600797edf48edd1005318256aa35e4ffc740e516"
 metafile = true
 
 [[files]]
+file = "mods/sanity-descent-into-madness.pw.toml"
+hash = "f765e9ddeb51d4f1d02b48bf6565ff76db1ae5e953890a0d576b7c6fb311ba1b"
+metafile = true
+
+[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "45eda6f15d39b56d64bf6796c1fde8c70db629cb9fc25abc4e39852151b7927d"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "99e1ea6e06a92080c984a4aa7309a33cb8b31089a2556013ef43f25b40c6203d"
 metafile = true
 
 [[files]]
