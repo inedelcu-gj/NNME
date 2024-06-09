@@ -256,6 +256,11 @@ hash = "2998c6878a1ab6ef9ddec4597f6a42bffe05f18d3942346f16795a445c00addc"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
 metafile = true
@@ -356,6 +361,16 @@ hash = "4bdeb76d67a9f647ef37303bcb9403b8281d5cd8dd99d7505afbca21b2b26158"
 metafile = true
 
 [[files]]
+file = "mods/nether-depths-upgrade.pw.toml"
+hash = "19bcecfa3d942e4dddda2f84987b10718809ee9b09ee8461d993b951b538810d"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "6b062f1f5ab1ea02a7046fd6b8667ed162c9c59b66a4f7087aac2ede382e2341"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "361f5915170fc468704db1c693cfac69431b82fdefc380d6d2d7a95242799bb9"
 metafile = true
@@ -448,6 +463,16 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "ce92a2870c50085508caf9b680efffdfdd50b54e240e7bf047b6833c66ac139e"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "a943b190ae8648304ae8f33c139ee59a0f90f2f30c997e4fcb4f246aed4f9a0a"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
 metafile = true
 
 [[files]]
