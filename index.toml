@@ -16,11 +16,6 @@ hash = "60a6223b39c88bca7dbf372c8560cf437377b2d4024c20712d36588216c858b2"
 metafile = true
 
 [[files]]
-file = "mods/alexs-caves.pw.toml"
-hash = "96e8edb78ff7965d41045e2efbe659d4e4f60b77eb79456d4e8f45342a3f91d6"
-metafile = true
-
-[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "2c31b3651fd6df13a65721fe596a0e3dd63f15148301a953d0e8789dce882d64"
 metafile = true
@@ -71,18 +66,8 @@ hash = "f88c85bc1b56127f3c6bb2c07dc2f27c566d3a312191e030173fd11c1c473b46"
 metafile = true
 
 [[files]]
-file = "mods/better-archeology.pw.toml"
-hash = "38d54872037bfecc7944bd8a438423bbda2d864d79dd07d083bbd869497aa68e"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
-metafile = true
-
-[[files]]
-file = "mods/better-tridents.pw.toml"
-hash = "17bb4c973d37556e94baee888ee69f270b6bed2e9b33945ac4172e9417846f68"
 metafile = true
 
 [[files]]
@@ -96,11 +81,6 @@ hash = "098dce9973ba88740458098f574f77cd8611b8aa9584916746ca135ef533309a"
 metafile = true
 
 [[files]]
-file = "mods/breezy.pw.toml"
-hash = "083fb8e999cc4fe8d7d117e63b3d10cadb8780e7706a2ca72aed44e98558d236"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "5155ae1ca2c606df2001422a48cd167d2449160d5fe12a302753dee69af7fe92"
 metafile = true
@@ -111,23 +91,8 @@ hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
 
 [[files]]
-file = "mods/castle-in-the-sky-the-fairytale-of-laputa.pw.toml"
-hash = "fff2a5386f91eaf57f92ed8c808ea4837233bf0d003f5ed10e1ad7332109e419"
-metafile = true
-
-[[files]]
-file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "d5d15e9ecea179026322633a340e6bf2668d5a7a66cf666829ffc3c732378380"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "454a06dd8f4f896dc23545a1ea4dcf304ca1265cdfe6c98b729d2943fb0b0341"
-metafile = true
-
-[[files]]
-file = "mods/clear-despawn.pw.toml"
-hash = "578dffa7275136af3d844d2146e0dce911fc8cc35b7a7d5508588a89d6c65fd0"
 metafile = true
 
 [[files]]
@@ -158,11 +123,6 @@ metafile = true
 [[files]]
 file = "mods/crafting-station.pw.toml"
 hash = "ac40f69fcbf5eef36d3e884a3ae0fa7620fc54a3596fe9ab1b2d5251e5fc136e"
-metafile = true
-
-[[files]]
-file = "mods/create-ad-astra-compatibility.pw.toml"
-hash = "b5cf8113a1e183014c447f667676d0f9aef078c22ec195d50c58df72b8f596dd"
 metafile = true
 
 [[files]]
@@ -216,16 +176,6 @@ hash = "6c011a2fe6fddca76c41a4be322d8c25997c01e9f830ed23b69e3ee066d37274"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "4d05ade00afb76af5e0269c923649cccdfb564597d438a09aab70226f508f9a6"
-metafile = true
-
-[[files]]
-file = "mods/easy-anvils.pw.toml"
-hash = "3b17a2980b74426f94633164b0c068f8afa025eabee0e0bd1a32c5965361c028"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
 metafile = true
@@ -233,16 +183,6 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "7de0f48f0ab30917c637c1a8a4853802578942a051f5616a6848b5045960c57f"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight-mod.pw.toml"
-hash = "1a39118934239eb4c2698fb6d64f431a16217becc0f8cd8c2756d5a8f45b18aa"
-metafile = true
-
-[[files]]
-file = "mods/epicfight-dual-greatsword.pw.toml"
-hash = "2445966526ad70481ee8d36c540174a241ed8bc79acb93085a8873b1c179b1a8"
 metafile = true
 
 [[files]]
@@ -278,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
-metafile = true
-
-[[files]]
-file = "mods/friends-and-foes-forge.pw.toml"
-hash = "1729d91efa70736b39cbfeab44c4c13141a6e3269a0aa21f32234bbc6aca8c8b"
 metafile = true
 
 [[files]]
@@ -376,11 +311,6 @@ hash = "1fd7013e2b41e76c0d0bccc7f47a88ebcbb4f597d1f5bea3126caa2d7b13200f"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "20b9ccddbc62a654c50431d6eb109c656c874b634cce32968faf04710cfdf1b5"
-metafile = true
-
-[[files]]
 file = "mods/lucent.pw.toml"
 hash = "2ca738aa0f011b34d0018a3860aab82d3e86d05f64ee74e22eafcebe1941e1af"
 metafile = true
@@ -436,11 +366,6 @@ hash = "19bcecfa3d942e4dddda2f84987b10718809ee9b09ee8461d993b951b538810d"
 metafile = true
 
 [[files]]
-file = "mods/nether-portal-spread.pw.toml"
-hash = "03785801020047cecb198480f20190e36a6af7e562e851bbacd6fc0d3df79bf2"
-metafile = true
-
-[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "6b062f1f5ab1ea02a7046fd6b8667ed162c9c59b66a4f7087aac2ede382e2341"
 metafile = true
@@ -481,16 +406,6 @@ hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
-file = "mods/pollution-of-create.pw.toml"
-hash = "13a47c6d8e688c524d08d1912fd7539e632233951098d0f2500534b787f00f19"
-metafile = true
-
-[[files]]
-file = "mods/pollution-of-the-realms.pw.toml"
-hash = "098fe1afcf5b7a085cd8dd4228b661caaab79bd826b6232500b7e27ed12d15aa"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
 metafile = true
@@ -498,11 +413,6 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "b92705dd6c13490d14e7c96e01fd1f2fd726f7974da13311ae98c79b0a6c6137"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "b15f8cc6d2943faa4afad0e41ec5dfd232cd8de8e30fdb2a76dafe14c8515f43"
 metafile = true
 
 [[files]]
