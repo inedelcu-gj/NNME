@@ -1,0 +1,13 @@
+name = "LazuLib"
+filename = "lazulib-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dae821cddaf87a7c7ba683a31b99b83e216f5545"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5056281
+project-id = 669777

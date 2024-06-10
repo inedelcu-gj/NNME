@@ -1,0 +1,13 @@
+name = "Pollution Of Create"
+filename = "pollutionofcreate-1.20.1-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c3c57057c96a49fae16c212b4b31938f918296a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5340807
+project-id = 1011284
