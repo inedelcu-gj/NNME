@@ -11,11 +11,6 @@ hash = "2823f67bc12454a6941062d99254aba1e31b2b9b639a030c2d5548df9df863d1"
 metafile = true
 
 [[files]]
-file = "mods/aerobatic-elytra.pw.toml"
-hash = "be75748a94f37362ab5291020e3be45102d860df343aeeb929164853a7e6d42a"
-metafile = true
-
-[[files]]
 file = "mods/aether.pw.toml"
 hash = "60a6223b39c88bca7dbf372c8560cf437377b2d4024c20712d36588216c858b2"
 metafile = true
@@ -366,11 +361,6 @@ hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
-file = "mods/lazulib.pw.toml"
-hash = "371775dbe1ba9c395a4be0a32c98fb6224b8a3d471c38ddd5aa83c3ec1e3a86e"
-metafile = true
-
-[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "7e601ceb72539f0337c85d463fbcf70defdb1efafce5b6d45fa5e622f9b788d2"
 metafile = true
@@ -448,16 +438,6 @@ metafile = true
 [[files]]
 file = "mods/nether-portal-spread.pw.toml"
 hash = "03785801020047cecb198480f20190e36a6af7e562e851bbacd6fc0d3df79bf2"
-metafile = true
-
-[[files]]
-file = "mods/nocubes-sea-dwellers.pw.toml"
-hash = "b1c940eaff3055d8c353db29844fc208c47bbfcf0f713b99d2e1a941c1d7ed39"
-metafile = true
-
-[[files]]
-file = "mods/nuka-cola-classic.pw.toml"
-hash = "605351b27863f51c7e01116fe7937da0d79c01f6bc802edbc229a929dd95535d"
 metafile = true
 
 [[files]]
@@ -551,11 +531,6 @@ hash = "f765e9ddeb51d4f1d02b48bf6565ff76db1ae5e953890a0d576b7c6fb311ba1b"
 metafile = true
 
 [[files]]
-file = "mods/simple-config.pw.toml"
-hash = "02ab081186109e0e1958d3e016a0812dc83e3059945ad6bb8ad182565f06fa1b"
-metafile = true
-
-[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "45eda6f15d39b56d64bf6796c1fde8c70db629cb9fc25abc4e39852151b7927d"
 metafile = true
@@ -603,16 +578,6 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "160e6c86655e71ce18b4ac3463ba9eccf51e405a6846541536e95371b0063929"
-metafile = true
-
-[[files]]
-file = "mods/unwrecked-ships-forge.pw.toml"
-hash = "b3d6e6d196e4573cde430f270846d2a2032fa06a6104a6bd0b3515b9f7f02e2f"
-metafile = true
-
-[[files]]
-file = "mods/wabi-sabi-structures-forge.pw.toml"
-hash = "d88a157f3ba46b8ef323b769b7333d941d56492655a9c0d7917e825d005d1a33"
 metafile = true
 
 [[files]]
